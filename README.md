@@ -21,7 +21,7 @@
 
 # How To Use
 
-{+] Just dowload the **.exe** and run it.
+{+] Download ClearTemp.exe and run it as administrator.
 
 {+] Remeber to run as Administrator for it delete all files!
 
