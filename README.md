@@ -4,7 +4,7 @@
 {+] A basic cleanup for the following folders > Temp, %temp% and Prefetch.
 
 
-{+] This will clear all the junk files that you have on your computer.
+{+] It'll clear all junk files inside your computer's storage.
 
 
 {+] Those are the following folders that this simples .exe will clear.
