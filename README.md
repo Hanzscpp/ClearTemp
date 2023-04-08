@@ -21,6 +21,6 @@
 
 # How To Use
 
-{+] Just dowload the **.exe** from run it.
+{+] Just dowload the **.exe** and run it.
 
 # Thats All!!!
