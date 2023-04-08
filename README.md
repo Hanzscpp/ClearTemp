@@ -1,7 +1,7 @@
 # ClearTemp
 
 
-{+] A basic clear for the following folders > Temp, %temp% and Prefetch.
+{+] A basic cleanup for the following folders > Temp, %temp% and Prefetch.
 
 
 {+] This will clear all the junk files that you have on your computer.
