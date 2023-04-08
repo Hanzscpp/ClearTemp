@@ -23,4 +23,6 @@
 
 {+] Just dowload the **.exe** and run it.
 
+{+] Remeber to run as Administrator for it delete all files!
+
 # Thats All!!!
