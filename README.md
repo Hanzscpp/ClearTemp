@@ -15,7 +15,7 @@
 
 > **C:\Windows\Prefetch**
 
-{+] This simple **.exe** will clear all those junk files without needing to dowload **ccleaner, avast cleaner etc...**
+{+] This archive is capable of clearing all those junk files which brakes your system without needing Ccleaner, Avast Cleaner, etc.
 
 {+] And dont worry, those are only junk files that **already have been used**, it will not compromise your computer.
 
