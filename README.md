@@ -11,7 +11,7 @@
 
 > **C:\Windows\Temp**
 
-> **C:\Users\YourUser\AppData\Local\Temp**
+> **C:\Users\YourUser\AppData\Local\Temp** (Dont worry, it will not pop-up an error)
 
 > **C:\Windows\Prefetch**
 
